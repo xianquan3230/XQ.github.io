@@ -17,8 +17,8 @@ favicon: favicon.ico
 
 repository: xianquan3230/XQ.github.io
 github_url: https://github.com/xianquan3230
-url: https://XQ.github.io
-enforce_ssl: ityouknow.com
+url: https://xianquan3230.github.io
+# enforce_ssl: ityouknow.com
 
 ## Gem
 plugins:
